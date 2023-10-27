@@ -1,3 +1,3 @@
 # coursera-clone
 
-[https://dulcet-mermaid-ed980b.netlify.app/]_(click here)
+[click here for coursera clone webpage](https://dulcet-mermaid-ed980b.netlify.app/)
